@@ -21,4 +21,4 @@
 ![Image](Images/LowInventory.png)
 
 ### Updating our stock successfully! We have one Hydrodynamic Spatula again.
-![Image](Images/UpdateStock.png)
+![Image](Images/updateStock.png)
