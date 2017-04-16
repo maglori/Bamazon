@@ -12,7 +12,7 @@
 ![Image](Images/customerSuccess.png)
 
 ## The following are from (the unfinished :( ) bamazonManager.js
-![Image](Images/initialPrompt.png)
+![Image](Images/InitialPrompt.png)
 
 ### Everything in stock:
 ![Image](Images/ForSale.png)
